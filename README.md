@@ -4,7 +4,8 @@ The task focuses on enhancing a basic GPT model by incorporating Rotary Position
 #Dataset
 The dataset used for this homework is a collection of the complete works of Shakespeare, provided in input.txt. The dataset is approximately 1.1MB in size.
 
-#Project Structure
+## Project Structure
+```
 RoPE-GQA/
 │
 ├── chargpt.py             # Main script to train the transformer model.
@@ -13,3 +14,4 @@ RoPE-GQA/
     ├── model.py           # Contains the model definition. Primary focus for RoPE and GQA.
     ├── trainer.py         # Code for the training loop of the model.
     └── utils.py           # Helper functions for saving logs and configs.
+```
