@@ -1,7 +1,7 @@
 # Overview
 The task focuses on enhancing a basic GPT model by incorporating Rotary Position Embeddings (RoPE) and Grouped Query Attention (GQA), key components in state-of-the-art Large Language Models (LLMs) like LLAMA-2.
 
-#Dataset
+## Dataset
 The dataset used for this homework is a collection of the complete works of Shakespeare, provided in input.txt. The dataset is approximately 1.1MB in size.
 
 ## Project Structure
